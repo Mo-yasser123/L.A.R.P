@@ -18,5 +18,7 @@ The projects are categorized by logical complexity:
 - `03_Loops/` - Iterative processes and automated task handling.
 - `04_Complex_Algorithms/` - Advanced problem-solving combining previous concepts.
 
-## 🛠️ How to Review
-Feel free to navigate into any folder. Inside, you will find a specific README, the `.lap` source file executable in the LARP environment, and exported screenshots (`.png`) of the flowcharts for quick visual review.
+## 🛠️ How to Review & Download
+Feel free to navigate through the folders to read the logical breakdown and pseudocode in each specific README. 
+
+📦 **Releases:** All executable `.lap` source files and exported flowchart screenshots (`.png`) are officially packaged and published in the **Releases** section of this repository. Any new projects or algorithmic updates will be uploaded directly there for easy access and downloading.
